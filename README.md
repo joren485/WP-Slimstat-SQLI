@@ -15,3 +15,4 @@ Todo:
 * Comment the code
 * Review and improve code
 * Improve readme
+* Remove the neccessity for phpserialize
