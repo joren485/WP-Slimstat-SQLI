@@ -14,7 +14,6 @@ Offical WP-Slimstat github repository: https://github.com/getusedtoit/wp-slimsta
 
 Todo:
 ----
-* Comment the code
 * Review and improve code
 * Improve readme
 * Remove the necessity for phpserialize
