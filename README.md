@@ -12,4 +12,5 @@ This is not accurate and not neccessary, it sometimes speeds things up a little 
 
 
 Also a nice writeup(not in english): http://lynt.cz/blog/zranitelnost-ve-wordpress-pluginu-wp-slimstat-3-9-5
+
 Offical WP-Slimstat github repository: https://github.com/getusedtoit/wp-slimstat
